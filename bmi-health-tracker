@@ -1,0 +1,5 @@
+I have created an operational Python script which computes one's body mass index (BMI) to keep track of physical well-being. In connection with the completion of my certificate in Python, I thought that my acquired knowledge about mathematical operations and conditional statements could be used in practice.
+
+This program allows the user to enter their weight measured in kilograms and height measured in meters, and compute his/her BMI using the formula and determine the category he/she falls under using 'if-elif-else' statements: whether it is 'Underweight', 'Normal' or 'Overweight'. While developing this program, I made sure to create an easy-to-use interface for the user as well as make sure that all mathematical calculations would be correct.
+
+As part of the tests for this application, I entered my own data 
